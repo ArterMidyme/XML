@@ -1,1 +1,33 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<Bug_ID> 
+    <ID_number>121</ID_number>
+    <Name>CART - Unable to add new item to my cart</Name>
+    <Reporter>Eugene M</Reporter>
+    <Submit_date>03.05.22</Submit_date>
+</Bug_ID> 
+<Bug_overview>
+    <Summary>When my cart contains one item, I am unable to add a second item via the add to cart button on a product page</Summary>
+    <URL>www.example.com/product/abc</URL>
+    <Screenshot>www.example.com/screenshot11</Screenshot>
+</Bug_overview>
+<Environment>
+    <Platform>Windows</Platform>
+    <Operating_system>11 Home 21H2</Operating_system>
+    <Browser>Chrome 53</Browser>
+</Environment>  
+<Bug_details>
+    <Steps_to_reproduce>Add one item to cart > go to product abc via the search bar > add new item to cart via 'add to cart' button (see screenshot) > go to cart</Steps_to_reproduce>
+    <Expected_result>The cart should contain 2 items</Expected_result>
+    <Actual_result>The cart contains only 1 item</Actual_result>
+    <Description></Description>
+</Bug_details>
+<Bug_tracking>
+    <Severity>Major</Severity>
+    <Assigned_to></Assigned_to>
+    <Priority>High</Priority>
+</Bug_tracking>
+<Notes>
+    <Note_1></Note_1>
+    <Note_2></Note_2>
+    <Note_3></Note_3>
+</Notes>
