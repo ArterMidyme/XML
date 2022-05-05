@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<full_name>Eugene Makarov</full_name>
-<age>23</age>
-<marital>married</marital>
-<desired_salary>1000</desired_salary>
+<person>
+  <full_name>Eugene Makarov</full_name>
+  <age>23</age>
+  <marital>married</marital>
+  <desired_salary>1000</desired_salary>
+</person>  
