@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<skill_1>Theory of software testing and quality assurance</skill_1>
-<skill_2>Clent-server architecture</skill_2>
-<skill_3>HTTP request methods</skill_3>
-<skill_4>JSON, XML</skill_4>
-<skill_5>Postman</skill_5>
-<skill_6>Charles, Fiddler</skill_6>
-<skill_7>Dev Tools</skill_7>
-<skill_8>VPN</skill_8>
-<skill_9>Mobile testing</skill_9>
-<skill_10>Android Studio</skill_10>
-<skill_11>Terminal</skill_11>
-<skill_12>SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)</skill_12>
-<skill_13>Postgress</skill_13>
-<skill_14>Redis</skill_14>
-<skill_15>Jmeter</skill_15>
-<skill_16>Scrum</skill_16>
-<skill_17>Python</skill_17>
+<skills>
+  <skill_1>Theory of software testing and quality assurance</skill_1>
+  <skill_2>Clent-server architecture</skill_2>
+  <skill_3>HTTP request methods</skill_3>
+  <skill_4>JSON, XML</skill_4>
+  <skill_5>Postman</skill_5>
+  <skill_6>Charles, Fiddler</skill_6>
+  <skill_7>Dev Tools</skill_7>
+  <skill_8>VPN</skill_8>
+  <skill_9>Mobile testing</skill_9>
+  <skill_10>Android Studio</skill_10>
+  <skill_11>Terminal</skill_11>
+  <skill_12>SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)</skill_12>
+  <skill_13>Postgress</skill_13>
+  <skill_14>Redis</skill_14>
+  <skill_15>Jmeter</skill_15>
+  <skill_16>Scrum</skill_16>
+  <skill_17>Python</skill_17>
+</skills>
